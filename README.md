@@ -1,4 +1,4 @@
-# Project E-11
+# Project e-11
 
 #### Description:
 
