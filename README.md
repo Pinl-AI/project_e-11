@@ -2,7 +2,7 @@
 
 #### Description:
 
-This project predicts the reaction order (zero, first, second, or third) of chemical reactions using ODE simulations and machine learning
+This project predicts the order (zero, first, second, or third) of chemical reactions using ODE simulations and machine learning
 
 ## Requirements
 
